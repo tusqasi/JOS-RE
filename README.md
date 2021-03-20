@@ -7,5 +7,5 @@
 
 - 📫 How to reach me: mail!
 - ⚡ Fun fact: BAZINGA !
--View my 
+- View my 
 [portfolio](https://jos-re.github.io/)
