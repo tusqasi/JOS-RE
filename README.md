@@ -1,6 +1,6 @@
 ### Hello There
 
-**I am Joshith Reddy ...
+**I am Joshith Reddy ...**
 
 - you're currently staring at my Readme file !
 - I am keen on learning new stuff and happy to collaborate with others
